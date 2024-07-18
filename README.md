@@ -23,7 +23,7 @@ I am a passionate web developer with experience in creating modern, functional, 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Burtovyi&theme=radical)
-![Top Languages](https://github-readme-stats-burtovyi.vercel.app/api/top-langs/?username=Burtovyi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Burtovyi&layout=compact&theme=radical)
 
 ## 📫 Contact
 
