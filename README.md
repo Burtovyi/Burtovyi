@@ -1,4 +1,4 @@
-# 👋 Hi! I'm [Oleksandr Burtovyi]
+# 👋 Hi! I'm Oleksandr Burtovyi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Burtovyi&color=brightgreen)
 
