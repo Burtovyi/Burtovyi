@@ -27,6 +27,6 @@ I am a passionate web developer with experience in creating modern, functional, 
 ## 📫 Contact
 
 - LinkedIn: [Oleksandr Burtovyi](https://www.linkedin.com/in/oleksandr-burtovyi/)
-- Email: oleksandr@burtovyi.com
+- Email: burtovyi@gmail.com
 
 Thank you for visiting my profile! Feel free to reach out if you have interesting projects or just want to chat.
