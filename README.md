@@ -20,10 +20,6 @@ I am a passionate web developer with experience in creating modern, functional, 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Burtovyi&theme=radical)
-
 ## 📫 Contact
 
 - LinkedIn: [Oleksandr Burtovyi](https://www.linkedin.com/in/oleksandr-burtovyi/)
