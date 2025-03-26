@@ -61,19 +61,6 @@ Currently working with **Next.js**, **NestJS**, **Docker**, and diving into the 
 
 ---
 
-## 🚀 Featured Project
-
-### [Defenders Group](https://defenders-group.company)
-
-A professional website built for **Defenders Group**, an association of lawyers providing legal services and consultations.  
-The platform is fully responsive, fast, and designed to reflect the trust, clarity, and professionalism expected in the legal field.
-
-> 🔒 Note: Source code is private.
-
-🌐 [Visit Live Website](https://defenders-group.company)
-
----
-
 ## 🎯 Currently Learning
 
 ![Currently Learning](https://img.shields.io/badge/Learning-DevOps-blue?style=flat-square&logo=github)
