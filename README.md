@@ -1,28 +1,91 @@
-# 👋 Hi! I'm Oleksandr Burtovyi
+# 👋 Hi there! I'm Oleksandr Burtovyi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Burtovyi&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/Burtovyi?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Burtovyi?style=social)
 
-## About Me
+<!-- Animated header -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer+from+Ukraine+🇺🇦;Former+Lawyer+-+Now+Code+Addict;React+%2B+Next.js+%2B+NestJS+%3D+❤️;Learning+DevOps+and+Clouds" alt="Typing SVG" />
+</h2>
 
-I am a passionate web developer with experience in creating modern, functional, and beautiful web applications. My core technologies include:
+## 🧑‍💻 About Me
 
-- **HTML**: Crafting semantic and accessible markup
-- **CSS**: Styling with Flexbox, Grid, and advanced techniques
-- **JavaScript**: Writing dynamic and interactive content
-- **React**: Developing component-based UI applications
-- **Node.js**: Building the server-side of web applications
+> **My philosophy**: clean code, clean UI, and never underestimate the power of `console.log`.
 
-## 🔧 Skills
+Currently working with **Next.js**, **NestJS**, **Docker**, and diving into the DevOps and Cloud world to complete the full cycle of development.
 
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-## 📫 Contact
+## 🚀 Tech Stack
 
-- LinkedIn: [Oleksandr Burtovyi](https://www.linkedin.com/in/oleksandr-burtovyi/)
-- Email: burtovyi@gmail.com
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-Thank you for visiting my profile! Feel free to reach out if you have interesting projects or just want to chat.
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠 Other Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Burtovyi&theme=radical&margin-w=10&margin-h=10&no-frame=true)
+
+---
+
+## 📊 GitHub Stats
+
+| Stats | Languages |
+|------------|----------|
+| ![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burtovyi&show_icons=true&theme=radical&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burtovyi&layout=compact&theme=radical) |
+
+---
+
+## ⚡ GitHub Activity Graph
+
+[![Oleksandr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Burtovyi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📌 Pinned Projects
+
+<!-- Replace with your real repo names -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Burtovyi&repo=foodies-front-end&theme=radical)](https://github.com/Burtovyi/foodies-front-end)
+
+---
+
+## 🎯 Currently Learning
+
+![Currently Learning](https://img.shields.io/badge/Learning-DevOps-blue?style=flat-square&logo=github)
+
+---
+
+## 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/Burtovyi/Burtovyi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-burtovyi/)
+- 📬 burtovyi@gmail.com
+
+💡 If you have an interesting idea or just want to say hi — don’t hesitate to reach out. Always open to collaboration and new opportunities!
+
+---
+
+> _P.S. While others scroll TikTok, I scroll through docs and commit history 😉_
