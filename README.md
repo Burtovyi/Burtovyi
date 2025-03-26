@@ -33,6 +33,7 @@ Currently working with **Next.js**, **NestJS**, **Docker**, and diving into the 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠 Other Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,10 +61,16 @@ Currently working with **Next.js**, **NestJS**, **Docker**, and diving into the 
 
 ---
 
-## 📌 Pinned Projects
+## 🚀 Featured Project
 
-<!-- Replace with your real repo names -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Burtovyi&repo=foodies-front-end&theme=radical)](https://github.com/Burtovyi/foodies-front-end)
+### [Defenders Group](https://defenders-group.company)
+
+A professional website built for **Defenders Group**, an association of lawyers providing legal services and consultations.  
+The platform is fully responsive, fast, and designed to reflect the trust, clarity, and professionalism expected in the legal field.
+
+> 🔒 Note: Source code is private.
+
+🌐 [Visit Live Website](https://defenders-group.company)
 
 ---
 
