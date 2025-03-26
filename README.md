@@ -75,7 +75,7 @@ Currently working with **Next.js**, **NestJS**, **Docker**, and diving into the 
 
 ## 🐍 Snake eating my contributions
 
-![snake gif](https://github.com/Burtovyi/Burtovyi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Burtovyi/Burtovyi/output/github-contribution-grid-snake.svg)
 
 ---
 
