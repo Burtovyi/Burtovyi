@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web+Developer+from+Ukraine+🇺🇦;Former+Lawyer+%E2%86%92+Code+Addict;React+%2B+Next.js+%2B+NestJS+%3D+❤️;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Web+Developer+from+Ukraine;Former+Lawyer+turned+Code+Addict;React+%2B+Next.js+%2B+NestJS;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </h2>
 
 ---
