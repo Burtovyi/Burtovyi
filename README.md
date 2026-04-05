@@ -22,23 +22,52 @@
 
 ### &nbsp;🧑‍💻&nbsp; About Me
 
+<div align="center">
 <table>
-<tr><td>
+<tr>
+<td width="50%">
 
-I traded the courtroom for the terminal and never looked back.
+<img src="https://img.shields.io/badge/📍_Valencia,_Spain-0d1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🇺🇦_Ukrainian-0057B7?style=for-the-badge&logoColor=white" />
 
-🇺🇦 &nbsp;Ukrainian, living in **Valencia, Spain**
+<br/><br/>
 
-⚖️ → 💻 &nbsp;Former **CEO & lawyer** — now I architect and ship **SaaS products end-to-end**
+**⚖️ → 💻 &nbsp;From Law to Code**
 
-🧠 &nbsp;I think in systems: from database schemas to business models
+Former CEO & practicing lawyer who discovered
+that debugging code is more satisfying than
+debugging contracts. Now I architect and ship
+SaaS products **end-to-end** — from the first
+`git init` to production at scale.
 
-🛠️ &nbsp;Stack: **Next.js · NestJS · Go · PostgreSQL · AWS · Docker**
+<br/>
 
-🎯 &nbsp;Driven by ownership — I design it, build it, deploy it, scale it
+<img src="https://img.shields.io/badge/Mindset-Systems_Thinker-6e40c9?style=flat-square" />
+<img src="https://img.shields.io/badge/Mode-Builder_%26_Owner-1f6feb?style=flat-square" />
 
-</td></tr>
+</td>
+<td width="50%">
+
+```js
+const oleksandr = {
+  background: ["CEO", "Lawyer", "Engineer"],
+  code:       ["TypeScript", "Go", "Python"],
+  focus:      "SaaS Products",
+  tools: {
+    frontend:  ["Next.js", "React", "Tailwind"],
+    backend:   ["NestJS", "Go", "Node.js"],
+    data:      ["PostgreSQL", "Redis", "Meilisearch"],
+    cloud:     ["AWS", "Docker", "Traefik"],
+  },
+  philosophy: "I don't just fix symptoms —"
+            + " I find root causes.",
+};
+```
+
+</td>
+</tr>
 </table>
+</div>
 
 ---
 
@@ -102,15 +131,24 @@ I traded the courtroom for the terminal and never looked back.
 ### &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Burtovyi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=c9d1d9&ring_color=6e40c9" alt="Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Burtovyi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=c9d1d9&ring_color=6e40c9" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Burtovyi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=c9d1d9&ring_color=6e40c9" alt="Stats" />
+  </picture>
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Burtovyi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Burtovyi&hide_border=true&background=0d1117&stroke=1f6feb&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <img height="180" src="https://streak-stats.demolab.com/?user=Burtovyi&hide_border=true&background=0d1117&stroke=1f6feb&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burtovyi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Burtovyi&layout=compact&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Burtovyi&layout=compact&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
@@ -131,25 +169,35 @@ I traded the courtroom for the terminal and never looked back.
 
 ### &nbsp;💡&nbsp; How I Think
 
-```text
-                    ┌─────────────┐
-                    │   Problem   │
-                    └──────┬──────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-        ┌──────────┐ ┌──────────┐ ┌──────────┐
-        │ Business │ │  System  │ │   User   │
-        │  Value?  │ │  Design  │ │   Need   │
-        └────┬─────┘ └────┬─────┘ └────┬─────┘
-              └────────────┼────────────┘
-                           ▼
-                    ┌─────────────┐
-                    │  Ship It 🚀 │
-                    └─────────────┘
+<div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#6e40c9', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#1f6feb', 'lineColor': '#1f6feb', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117', 'fontSize': '16px'}}}%%
+flowchart TD
+    A["🔍 Problem"]:::accent --> B{"Decompose"}
+    B --> C["💰 Business Value"]
+    B --> D["⚙️ System Design"]
+    B --> E["👤 User Need"]
+    C --> F{"Synthesize"}
+    D --> F
+    E --> F
+    F --> G["🚀 Ship It"]
+
+    classDef accent fill:#6e40c9,stroke:#1f6feb,color:#ffffff,stroke-width:2px
+    classDef default fill:#161b22,stroke:#1f6feb,color:#c9d1d9,stroke-width:1px
 ```
 
-> *A legal mind debugging code — I don't just fix symptoms, I find root causes.*
+<br/>
+
+<img src="https://img.shields.io/badge/⚖️_Legal_precision-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjNmU0MGM5Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/+_Engineering_rigor-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMWY2ZmViIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/=_Products_that_last-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMjM4NjM2Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvc3ZnPg==" />
+
+<br/><br/>
+
+*I don't just fix symptoms — I find root causes.*
+
+</div>
 
 ---
 
